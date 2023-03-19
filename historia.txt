@@ -6,4 +6,4 @@ Hoy hablaremos de su historia.
 
 En camara parece flaquito pero esta robustito.
 
-Hoy está aprendiendo GIT
+Hoy está aprendiendo GIT y practicando HTML/CSS
