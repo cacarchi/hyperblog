@@ -1,9 +1,7 @@
 Esta es la historia de César Carchi.
 
-César Carchi tiene 28 años y nació en Loja, Ecuador.
+César Carchi tiene 28 años y nació en Ecuador.
 
 Hoy hablaremos de su historia.
 
-En camara parece flaquito pero esta robustito.
-
-Hoy está aprendiendo GIT y practicando HTML/CSS y pronto Javascript 
+Mañana vamos a hablar de sus hobbies.
